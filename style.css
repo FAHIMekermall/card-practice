@@ -110,6 +110,7 @@ main{
     margin: 3px ;
     font-weight: inherit;
     font-size: 0.8rem;
+    cursor: wait;
 }
 .skills-container span:hover{
     background-color: rgba(255, 255, 240, 0.192);
